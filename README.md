@@ -20,7 +20,7 @@ A role-based URL shortener service built with **PHP Laravel 8** and **SQLite**. 
 
 ## Requirements
 
-- PHP 7.4+
+- PHP 8+
 - Composer
 - SQLite (bundled with PHP — no separate installation needed)
 
